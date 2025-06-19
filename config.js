@@ -13,7 +13,7 @@
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
 created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+contact me 923078283084 ♻️
 © Copy coder alert ⚠
 */
 
@@ -31,8 +31,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~yBEyzYzS#1ch_pzJQQMM8WZ11eFpI7dIzNOaj-O8AtgCDUVdfQA4",
+    CAPTION: process.env.CAPTION || "POWERED BY SAHIL KING",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
@@ -46,18 +46,18 @@ module.exports = {
     ANTI_CALL: process.env.ANTI_CALL || "true",
     BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "/",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
-    FAKE_TYPING: process.env.FAKE_TYPING || "false",
+    FAKE_TYPING: process.env.FAKE_TYPING || "true",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923078283084",
+    OWNER_NAME: process.env.OWNER_NAME || "➺SAHILKING084࿐",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂`",
+    BOT_NAME: process.env.BOT_NAME || "➺SAHIL.KING084",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү SAHIL.KING084`",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
